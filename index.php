@@ -65,7 +65,7 @@ include 'admin/function_wishlist.php';
 					
 			    </ul>
 			</div><!-- /.navbar-collapse -->							
-		</nav><!--nav ends here-->
+		</nav>
 
 		<div class="panel panel-default">
   			<div class="panel-body">
