@@ -1,0 +1,196 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.header img{
+	width:1140px;
+	height: 150px;
+	margin: 10px 0 0 0;
+}
+
+.navbar{
+	margin-bottom: 0px;
+	background: ;
+}
+.logo img{
+	width: 150px;
+	height: 90px;
+	margin-top: 10px;
+	margin-left: 35%;
+}
+.panel{
+	background: #ffcccc;
+}
+
+.insert_form{
+	width: 70%;
+	padding-top: 20px;
+	margin: 0 auto;
+}
+.insert_form h2{
+	font-size: 30px;
+	font-weight: bold;
+
+}
+
+.category_box{
+	background: white;
+}
+.single_box{
+	background: white;
+}
+
+.main_content{
+	background: white;
+	text-align: center;
+}
+
+.account_info{
+	background: white;
+}
+
+/*moz hack for table responsiveness*/
+@-moz-document url-prefix() {
+  fieldset { display: table-cell; }
+}
+.adminbody{
+	width: 95%;
+	margin: 0 auto;
+	font-family: sans-serif;
+}
+.content{
+	width: 100%;
+	
+}
+
+
+.mynav{
+	width: 100%;
+	height: 50px;
+	background: #187eae;
+	color: #000000;
+	font-size: 30px;
+	padding-top: 5px;
+	padding-left: 20px;
+	border-bottom: 2px solid pink;
+
+}
+.mynav a{
+	color: #000000;
+	font-family:;
+	text-decoration: none;
+
+}
+
+.mynav span{
+	font-size: 25px;
+	margin-left: 20px;
+}
+
+.left{
+	background: #187eae;
+	float: left;
+	width: 18%;
+	height: 600px;
+	padding-top:10px;
+
+
+}
+.left ul{
+	
+	list-style: none;
+
+
+}
+.left ul li{
+	height: 40px;
+	font-size: 15px;
+	padding: 10px;
+
+}
+.left ul li:hover{
+	background: #96A2FA;
+	border-bottom: 2px solid pink;
+}
+.left ul li a{
+	text-decoration: none;
+	color: white;
+	padding-left: 22px;
+
+}
+.left ul li a:hover{
+	text-decoration: none;
+}
+/*.left ul li:hover{
+	background: black;
+}*/
+
+.left h2{
+	margin-left: 20px;
+	font-size: 25px;
+	margin-top: 5px;
+
+}
+.left-heading{
+	border-bottom: 3px solid black;
+	margin-bottom: 15px;
+}
+
+
+.right{
+	width: 80%;
+	float: right;
+}
+
+
+
+
+
+
+
+
