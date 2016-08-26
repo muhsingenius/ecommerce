@@ -15,8 +15,7 @@
 <html>
 	<head>
 		<title>This is test</title>
-		<!--<link rel="stylesheet" type="text/css" href="../css/bootstrap.css">
-		<link rel="stylesheet" type="text/css" href="../css/bootstrap-theme.css">-->
+		
 		<link rel="stylesheet" type="text/css" href="../css/custom.css">
 	</head>
 	<body class="adminbody">
